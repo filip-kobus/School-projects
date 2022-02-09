@@ -15,7 +15,9 @@ int main()
     dlugosc = wyraz.length();
 
     cout<<endl<<"Pierwsza litera: "<<wyraz[0]<<endl;
-    cout<<"Ostatnia litera: "<<wyraz[dlugosc-1];
-
+    cout<<"Ostatnia litera: "<<wyraz[dlugosc-1]<<endl;
+    
+    system("pause");
+    
     return 0;
 }
