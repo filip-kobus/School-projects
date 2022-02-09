@@ -21,5 +21,9 @@ int main()
     cout<<"Podaj wyraz: ";
     cin>>tekst;
     
-    cout<<"Liczba a w wyrazie wynosi: "<<zlicz(tekst);
+    cout<<"Liczba a w wyrazie wynosi: "<<zlicz(tekst)<<endl;
+    
+    system("pause");
+    
+    return 0;
 }   
