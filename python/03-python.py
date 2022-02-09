@@ -5,3 +5,4 @@ zmienna = input("Wprowadz wyraz: ")
 
 transformator(zmienna, "a", "b")
 
+input()
