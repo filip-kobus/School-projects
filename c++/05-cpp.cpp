@@ -24,7 +24,9 @@ int main()
     cout<<"Podaj wyraz: ";
     cin>>wyraz;
 
-    cout<<endl<<"Wyraz po zamianie liter: "<<zamiana(wyraz);
+    cout<<endl<<"Wyraz po zamianie liter: "<<zamiana(wyraz)<<endl;
 
+    system("pause");
+    
     return 0;
 }
