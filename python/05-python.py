@@ -7,3 +7,5 @@ def zamiana(wyraz):
     return "".join(nowy)
     
 print(f'Wyraz po zamianie: {zamiana(wyraz)}')
+
+input()
