@@ -7,3 +7,5 @@ def zlicz_a(tekst):
 
 wyraz = input("Podaj napis: ")
 print("Liczba znakow a w twoim wyrazie to: ",zlicz_a(wyraz))
+
+input()
