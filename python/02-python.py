@@ -6,3 +6,5 @@ w2 = " ma "
 w3 = "kota"
 
 dodaj(w1, w2, w3)
+
+input()
